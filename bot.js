@@ -261,8 +261,8 @@ bot.hears('📞 Bog\'lanish', async (ctx) => {
   clearState(ctx.from.id);
   await ctx.replyWithHTML(
     `📞 <b>Biz bilan bog'lanish</b>\n\n` +
-    `☎️ Telefon: +998 XX XXX XX XX\n` +
-    `📍 Manzil: Toshkent sh., ... ko'chasi\n` +
+    `☎️ Telefon: +998 77 108 25 52 , +998 99 980 04 75\n` +
+    `📍 Manzil: Toshkent sh.,bektemir tumani  ko'chasi\n` +
     `🕐 Ish vaqti: Dushanba–Shanba, 09:00–18:00\n\n` +
     `Shuningdek, shu botga bevosita matn yoki ovozli xabar yuborishingiz mumkin.`
   );
